@@ -1,0 +1,2 @@
+# rookie
+A rookie repository
